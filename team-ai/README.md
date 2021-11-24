@@ -2,7 +2,7 @@
 
 ### Meetings
 
-Regular team meetings: Mondays 21:00(UTC+9)
+毎週月曜 21:00(UTC+9)
 
 ### 活動内容
 
