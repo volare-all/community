@@ -1,4 +1,4 @@
-## team ai
+## team 
 
 ### Meetings
 
