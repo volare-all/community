@@ -25,7 +25,7 @@ teamとは、ネットワーク上で、ある特定のテーマやジャンル�
 |------|-------|--------|---------|----------|
 | appmaker | team-appmaker  |[@yusk](https://github.com/yusk)  | Slack | 月1程度不定期 |
 | beginner | team-beginner | [@mikik0](https://github.com/mikik0) |  Slack  |  |
-| backend | team-backend | [@riita10069](https://github.com/riita10069) | Slack  | チャットのみ |
+| [backend](team-backend/README.md) | team-backend | [@riita10069](https://github.com/riita10069) | Slack  | チャットのみ |
 | [ai](team-ai/README.md) | team-ai | [@aki85](https://github.com/aki85) | Slack | 毎週月曜21:00 |
 | [cncf](team-cncf/README.md) | team-cncf | [@riita10069](https://github.com/riita10069) | Slack | 毎週金曜21:00 |
 | aws | team-aws | [@riita10069](https://github.com/riita10069) | Slack | 月1程度不定期 |
