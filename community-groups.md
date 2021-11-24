@@ -2,7 +2,7 @@
 title: Community Groups
 linkTitle: Community Groups
 description:  |
-  A list of our community groups: Special Interest Groups, Working Groups.
+  A list of our community groups
 weight: 99
 type: docs
 slug: community-groups
