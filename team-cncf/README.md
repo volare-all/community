@@ -14,7 +14,7 @@ Frequently, cloud-native applications are built as a set of microservices that r
 ### Chairs
 The Chairs of the SIG run operations and processes governing the SIG.
 
-* Ryota Yamada  (**[@riita10069](https://github.com/riita10069)**), Amazon
+* Ryota Yamada  (**[@riita10069](https://github.com/riita10069)**), Tokyo Tech
 
 ## Project
 
