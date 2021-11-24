@@ -8,8 +8,6 @@ Frequently, cloud-native applications are built as a set of microservices that r
 
 ## Meetings
 * Regular SIG Meeting: Friday at 21:00 (UTC 21:00) . [Convert to your timezone](http://www.thetimezoneconverter.com/).
-  * [Meeting notes and Agenda](https://docs.google.com/document/d/1LZLBGW2wRDwAfdBNHJjFfk9CFoyZPcIYGWU7R1PQ3ng/edit#).
-  * [Meeting recordings](https://www.youtube.com/playlist?list=PL69nYSiGNLP2LMq7vznITnpd2Fk1YIZF3).
 
 ## Leadership
 
