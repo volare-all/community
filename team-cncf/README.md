@@ -16,4 +16,4 @@ The Chairs of the SIG run operations and processes governing the SIG.
 - Developing [roche](https://github.com/riita10069/roche)
 - Watching [CNDT](https://event.cloudnativedays.jp/)
 - Contributing some OSSs
-- Sharing the latest informationhare the 
+- Sharing the latest information
