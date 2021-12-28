@@ -23,12 +23,12 @@ teamとは、ネットワーク上で、ある特定のテーマやジャンル�
 
 | Name | Label | Chairs | Contact | Meetings |
 |------|-------|--------|---------|----------|
-| [ai](team-ai/README.md) | team-ai | [@aki85](https://github.com/aki85) | Slack | 毎週月曜21:00 |
-| [appmaker](team-appmaker/README.md) | team-appmaker  |[@yusk](https://github.com/yusk)  | Slack | 月1程度不定期 |
-| [aws](team-aws/README.md) | team-aws | [@riita10069](https://github.com/riita10069) | Slack | 月1程度不定期 |
+| [ai](team-ai/README.md) | team-ai | [@aki85](https://github.com/aki85) | Slack, Discord | 毎週月曜21:00 |
+| [appmaker](team-appmaker/README.md) | team-appmaker  |[@yusk](https://github.com/yusk)  | Slack, Discord | 月1程度不定期 |
+| [aws](team-aws/README.md) | team-aws | [@riita10069](https://github.com/riita10069) | Slack, Discord | 月1程度不定期 |
 | [backend](team-backend/README.md) | team-backend | [@riita10069](https://github.com/riita10069) | Slack  | チャットのみ |
-| [beginner](team-beginner/README.md) | team-beginner | [@mikik0](https://github.com/mikik0) |  Slack  |  |
-| [cncf](team-cncf/README.md) | team-cncf | [@riita10069](https://github.com/riita10069) | Slack | 毎週金曜21:00 |
+| [beginner](team-beginner/README.md) | team-beginner | [@mikik0](https://github.com/mikik0) |  Slack, Discord  |  |
+| [cncf](team-cncf/README.md) | team-cncf | [@riita10069](https://github.com/riita10069) | Slack, Discord | 毎週金曜21:00 |
 | [handson](team-handson/README.md) | team-handson | [@ree-rishun](https://github.com/ree-rishun) | Slack |  |
 
 
