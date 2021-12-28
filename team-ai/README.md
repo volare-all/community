@@ -8,6 +8,8 @@
 
 輪読会、チームでのKaggleコンペの参加を中心に行っています。
 
+### 活動実績
+
 [Kaggleで勝つデータ分析入門](https://www.amazon.co.jp/Kaggle%E3%81%A7%E5%8B%9D%E3%81%A4%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E3%81%AE%E6%8A%80%E8%A1%93-%E9%96%80%E8%84%87-%E5%A4%A7%E8%BC%94/dp/4297108437/ref=sr_1_1?crid=1KS3K9JV9VX2A&keywords=kaggle%E3%81%A7%E5%8B%9D%E3%81%A4%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E3%81%AE%E6%8A%80%E8%A1%93&qid=1640696052&sprefix=kaggle%2Caps%2C238&sr=8-1)
 の輪読が2020/12/21に終わりました。
 
